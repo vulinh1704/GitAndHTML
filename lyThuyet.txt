@@ -15,4 +15,4 @@ git push: đưa code từ local lên remote
 
 
 các file đang làm việc   staging area   localRepo(offline)   remoteRepo (online)
-                         lyThuyet.txt
+                                                               lyThuyet.txt
