@@ -9,7 +9,10 @@ git config --global user.name vulinh1704
 
 git init: Khởi tạo local repository
 git add: đưa các thay đổi vào staging area
+git commit: đưa thay đổi từ staging vào local repo, lưu lại lịch sử thay đổi
+git remote: kết nối với remote repo
+git push: đưa code từ local lên remote
 
 
 các file đang làm việc   staging area   localRepo(offline)   remoteRepo (online)
-   lyThuyet.txt
+                         lyThuyet.txt
